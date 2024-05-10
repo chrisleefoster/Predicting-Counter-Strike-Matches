@@ -3,7 +3,7 @@ This initial upload is code from a class project. I plan to continue updating th
 Class was CS7050 - Data Warehousing and Mining.   
 
 ## To Do   
- -[ ] Construct dataset / base
-        - [ ] Scrape data from HLTV?
- -[ ] Work on prediction model
-        - [ ] feature selection?
+ -[ ] Construct dataset / base   
+        - [ ] Scrape data from HLTV?   
+ -[ ] Work on prediction model   
+        - [ ] feature selection?   
